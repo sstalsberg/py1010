@@ -8,4 +8,4 @@ https://github.com/sstalsberg/py1010/blob/main/
 
 - [Arbeidskrav 1](arbeidskrav1.py)
 - [Arbeidskrav 2](Arbeidskrav2.ipynb)
-- [Prosjektoppgave](prosjektoppgave.py)
+- [Prosjektoppgave](prosjektoppgave.ipynb)
