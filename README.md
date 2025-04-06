@@ -4,6 +4,8 @@ Innholder innleveringer av arbeidskrav og prosjektoppgave
 
 Innholdsfortegnelse
 
-- [Main Python Script](main.py)
-- [Project Overview](docs/overview.md)
-- [Sample Data File](data/sample.csv)
+https://github.com/sstalsberg/py1010/blob/main/
+
+- [Arbeidskrav 1](arbeidskrav1.py)
+- [Arbeidskrav 2](arbeidskrav2.py)
+- [Prosjektoppgave](prosjektoppgave.py)
