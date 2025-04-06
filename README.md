@@ -7,5 +7,5 @@ Innholdsfortegnelse
 https://github.com/sstalsberg/py1010/blob/main/
 
 - [Arbeidskrav 1](arbeidskrav1.py)
-- [Arbeidskrav 2](arbeidskrav2.py)
+- [Arbeidskrav 2](Arbeidskrav2.py)
 - [Prosjektoppgave](prosjektoppgave.py)
